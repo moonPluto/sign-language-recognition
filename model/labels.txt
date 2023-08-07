@@ -1,0 +1,20 @@
+0 A
+1 B
+2 C
+3 D
+4 E
+5 F
+6 G
+7 i
+8 K
+9 L
+10 O
+11 P
+12 Q
+13 W
+14 X
+15 Y
+16 Like
+17 Dislike
+18 Rocking
+19 Thank you
